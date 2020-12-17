@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\____www\\\\___VUE\\\\nuxtjs\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_829ed28a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\____www\\\\___VUE\\\\nuxtjs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_15ee18b8"
+  }
+]

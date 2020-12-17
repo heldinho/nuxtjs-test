@@ -1,0 +1,16 @@
+{
+  "name": "nuxtjs",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^5.0.0",
+    "nuxt": "^2.14.12",
+    "sass-loader": "^10.1.0"
+  }
+}
